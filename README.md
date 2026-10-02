@@ -43,3 +43,12 @@ gestionar el inventario.
 -Condicionales
 -Manejo de errores
 -Módulos
+
+## Aprendizaje
+
+Con este proyecto aperndí a como:
+
+-Hacer un sistema de listas y diccionarios.
+-Usar Try y Explain.
+-Como organizar un proyecto correctamente.
+-Usar git en un projecto.
