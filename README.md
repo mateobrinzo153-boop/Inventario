@@ -51,4 +51,5 @@ Con este proyecto aperndí a como:
 -Hacer un sistema de listas y diccionarios.
 -Usar Try y Explain.
 -Como organizar un proyecto correctamente.
--Usar git en un projecto.
+-Hola mundo
+-Este proyecto me ayudó a practicar Git y GitHub.
